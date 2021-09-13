@@ -1,8 +1,8 @@
 # text_gcn
 
-The implementation of Text GCN in our paper:
+Built a single heterogeneous graph for a corpus based on word co-occurrence and document word relations.
+Learned word and document embedding and turned this text classification into node classification
 
-Liang Yao, Chengsheng Mao, Yuan Luo. "Graph Convolutional Networks for Text Classification." In 33rd AAAI Conference on Artificial Intelligence (AAAI-19), 7370-7377
 
 
 ## Require
